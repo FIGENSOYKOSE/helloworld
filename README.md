@@ -7,4 +7,4 @@
 This is my first repository
 **Bold**
 *italic*
-:Pizza:
+:pizza:
