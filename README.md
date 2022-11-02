@@ -6,4 +6,5 @@
 
 This is my first repository
 **Bold**
-**italic**
+*italic*
+:Pizza:
